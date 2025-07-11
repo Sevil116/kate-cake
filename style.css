@@ -34,10 +34,10 @@
 } */
 
 .slide-1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(https://cdn.glitch.global/8975abc0-38a7-4814-a99e-0a9227068324/newcover2.jpg?v=1674565328011.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(images/newcover2.jpg);
 }
 .slide-2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(https://cdn.glitch.global/8975abc0-38a7-4814-a99e-0a9227068324/cover1.jpg?v=1674565352297);
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(images/cover1.jpg);
 }
 .bg-cover {
     background-position: center; 
